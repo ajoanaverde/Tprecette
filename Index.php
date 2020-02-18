@@ -1,5 +1,9 @@
 <?php
 
+
+echo "HELLO?";
+
+
 include('./Ingredient.php');
 include('./Appareil.php');
 include('./Ustensile.php');
